@@ -1,7 +1,8 @@
 # DA4DTE_TaskIntepreter
 The Task Interpreter’s main target is for the assistant to act as an integrated whole instead of a number of individual engines. 
 
-![image](https://github.com/MyrtoTs/DA4DTE_TaskIntepreter/assets/42088027/7904b237-cb72-4f07-880a-ac2684f84924)
+![image](https://github.com/MyrtoTs/DA4DTE_TaskIntepreter/assets/42088027/e4ae9708-1ca4-4def-aaa7-186efa69c735)
+
 
 Task Interpreter (TI) is designed to work in collaboration with the UI that will be implemented by e-Geos (see images 2 and 3, containing the suggestion of the UoA team on that). Following is a description of the request’s flow from the user to the engines via the TI as well as the flow of the response back to the user. 
 First of all, the DA greets the user and asks them to pose a request (see image 2). Several suggestions (examples that DA is designed to answer) are also offered to the user.
