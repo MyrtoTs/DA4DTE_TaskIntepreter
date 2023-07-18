@@ -1,3 +1,9 @@
+import warnings
+warnings.filterwarnings("ignore")
+
+import json
+from task_interpreter import *
+
 def main():
     messages = [{"role": "assistant", "content": "Welcome to DA4DTE! Please enter your request.",
                          'image': ''}]
